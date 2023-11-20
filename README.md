@@ -5,12 +5,17 @@ Esta es la práctica 1 de Programación de Servicios y procesos del grupo 4 en e
 
 Link a web con el Readme y documentación y tests en video: 
 
-https://julianmendezedix.github.io/AE2_ServiciosREST/index.html
+
+
+[WEB](https://julianmendezedix.github.io/AE2_ServiciosREST/index.html)
+
 
 [Ver video en Google Drive](https://drive.google.com/file/d/1RXSdMzI-LeQKyRZV2ndWo44iFBACKl-w/view?usp=drive_link)
 
 [Ver video en Google Drive](https://drive.google.com/file/d/1OyXASgXOjpHxUx0zyMsIPMfPATcX9iWU/view?usp=drive_link)
 
-Link a github: https://github.com/JulianMendezEdix/AE2_ServiciosREST
+Link a github: 
+
+[GITHUB](https://github.com/JulianMendezEdix/AE2_ServiciosREST)
 
 saludos!
