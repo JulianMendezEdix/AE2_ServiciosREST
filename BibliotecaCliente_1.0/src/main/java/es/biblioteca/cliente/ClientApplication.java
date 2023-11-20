@@ -157,6 +157,7 @@ public class ClientApplication implements CommandLineRunner{
 					case 7:
 						//Mandamos parar nuestra aplicación Spring Boot
 						pararAplicacion();
+						break; //este break no estaba grabando el video!!!! resubo a git.
 					default:
 	                    System.out.println("Opción no válida. Por favor, introduce un número del 1 al 7.");	
 				}
